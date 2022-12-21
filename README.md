@@ -1,5 +1,5 @@
 # barbearia-alura
  esse é o repositório onde eu deixo a minha primeira pagina web
-![imagem dos produtos do site][def]
-
-[def]: http://url/to/produtos.png
+<p align="center">
+  <img src="produtos.png" width="350" title="imagem dos produtos">
+</p>
